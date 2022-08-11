@@ -1,2 +1,2 @@
-# Azure_Dev_Env
+# Azure_Projects
 A Developer environment created using terraform.
